@@ -2,7 +2,7 @@
 
 meu nome é anny 
 
-- estou estudando na alura
+- estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem  JavaScript
 - utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 
@@ -10,4 +10,6 @@ meu nome é anny
 
  rakelly.andrade.anny@escola.pr.gov.br
 
- @anny 
+
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
